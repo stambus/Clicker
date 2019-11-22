@@ -1,11 +1,16 @@
 # Clicker
 MouseClicker with random cursor location and delay times
  
-## Using the app
+## GUI of application
 
-First You will need to upload the img using upload button:
+Just follow the suggestions from app:
 
 ![test1](github_expla.png)
   
-After You selected file from your local drive, generate it: 
+- Point cursor, select if You want your clicker to click in area, or in exact point.
+
+- Then enter time delay range. Example :2s and 3s, will click each 2.000000 (random float in between the range You specify)
+
+- Select button to clik from dropdown menu.
+
 
