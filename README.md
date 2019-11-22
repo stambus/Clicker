@@ -11,6 +11,7 @@ Just follow the suggestions from app:
 
 - Then enter time delay range. Example :2s and 3s, will click each 2.000000 (random float in between the range You specify)
 
-- Select button to clik from dropdown menu.
+- Select button to click from dropdown menu.
 
+- Press start or F3 to start, stop or F4 to stop.
 
